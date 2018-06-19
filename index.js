@@ -13,7 +13,7 @@ function divide(a, b) {
 
 function inc(n) {
   var n = n++
-  console.log(n)
+  console.log("n")
 }
 
 function dec(n) {
