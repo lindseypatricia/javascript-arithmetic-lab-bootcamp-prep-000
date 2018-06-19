@@ -12,12 +12,11 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  var n = 983
-  return n += 5
+  return n++
 }
 
 function dec(n) {
-  return n-= 5
+  return n--
 }
 
 function makeInt(n) {
