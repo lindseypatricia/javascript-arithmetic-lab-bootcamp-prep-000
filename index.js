@@ -19,7 +19,7 @@ inc()
 function dec(n) {
   return n--
 }
-inc()
+dec()
 
 function makeInt(n) {
   var n = 5
