@@ -12,7 +12,7 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  var n = 260
+  var n = 983
   return n += 5
 }
 
