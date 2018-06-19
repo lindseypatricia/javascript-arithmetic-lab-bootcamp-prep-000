@@ -12,9 +12,9 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  return n++
+  var n = n++
+  console.log(n)
 }
-inc()
 
 function dec(n) {
   return n--
